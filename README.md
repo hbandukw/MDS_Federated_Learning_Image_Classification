@@ -1,5 +1,5 @@
 # Federated Learning in Image Classification Models
-MDS 2024 Capstone Project Report - Federated Learning in Image Classification Models.
+MDS 2024 Capstone Project Report 
 <center>
 <div style="text-align: center;">
     <img src="https://repository-images.githubusercontent.com/241095326/04ad19b5-b049-4d07-8555-60699f80f0d8" alt="Federated Learning Diagram" width="500"/>
