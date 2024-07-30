@@ -1,4 +1,4 @@
-# MDS_Federated_Learning_Image_Classification
+# Federated Learning in Image Classification Models
 MDS 2024 Capstone Project Report - Federated Learning in Image Classification Models.
 <center>
 <div style="text-align: center;">
